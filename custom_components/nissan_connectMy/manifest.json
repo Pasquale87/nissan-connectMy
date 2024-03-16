@@ -1,6 +1,6 @@
 {
   "domain": "nissan_connect",
-  "name": "NissanConnect",
+  "name": "NissanConnectMy",
   "version": "1.0.0",
   "integration_type": "device",
   "codeowners": [
