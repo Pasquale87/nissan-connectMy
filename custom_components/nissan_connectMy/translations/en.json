@@ -1,0 +1,45 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Account is already configured"
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_auth": "Invalid authentication"
+    },
+    "step": {
+      "user": {
+        "title": "Sign-in with MyNissan account",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      },
+      "vehicle_data": {
+        "title": "Vehicle Options",
+        "data": {
+          "vin": "VIN Number",
+          "pin": "PIN Code"
+        }
+      }
+    }
+  },
+  "options": {
+    "abort": {
+      "already_configured": "Account is already configured"
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_auth": "Invalid authentication"
+    },
+    "step": {
+      "vehicle_data": {
+        "title": "Vehicle Options",
+        "data": {
+          "vin": "VIN Number",
+          "pin": "PIN Code"
+        }
+      }
+    }
+  }
+}
